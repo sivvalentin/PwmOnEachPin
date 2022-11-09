@@ -1,0 +1,11 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+PwmOnEachPin	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+pwm	KEYWORD2
+noPwm	KEYWORD2
